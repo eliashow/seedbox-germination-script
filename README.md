@@ -15,7 +15,7 @@ This script collects all magnet links on a specified web page and populates your
   chmod +x install.sh
   ./install.sh
   ```
-4. In your torrent client make sure to uncheck any options that could bring up dialog boxes when adding torrents.
+4. Make sure to uncheck any options in your torrent client that may open dialog boxes when adding torrents.
   
 5. Run the germination script.
   ```
